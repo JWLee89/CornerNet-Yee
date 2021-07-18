@@ -1,2 +1,3 @@
-# CornerNet-Yee
-PyTorch implementation of CornerNet
+# CornerNet Yee
+
+PyTorch implementation of CornerNet. 
